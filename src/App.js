@@ -1,15 +1,14 @@
 import React from 'react';
-import { Provider } from 'react-redux';
-import { store } from './store/store';
+import { DashboardProvider } from './context/DashboardContext';
 import Dashboard from './components/Dashboard';
 
 function App() {
   return (
-    <Provider store={store}>
+    <DashboardProvider>
       <div className="App">
         <Dashboard />
       </div>
-    </Provider>
+    </DashboardProvider>
   );
 }
 
