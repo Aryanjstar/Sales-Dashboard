@@ -1,0 +1,312 @@
+{
+  "salesData": [
+    {
+      "id": 1,
+      "date": "2024-01-15",
+      "salesRepresentative": "Sarah Johnson",
+      "client": "Rare Restaurants",
+      "product": "Premium Dining Experience",
+      "unitsSold": 45,
+      "revenue": 22500,
+      "target": 25000
+    },
+    {
+      "id": 2,
+      "date": "2024-01-18",
+      "salesRepresentative": "Michael Chen",
+      "client": "Urban Kitchen",
+      "product": "Casual Dining Package",
+      "unitsSold": 32,
+      "revenue": 12800,
+      "target": 15000
+    },
+    {
+      "id": 3,
+      "date": "2024-01-22",
+      "salesRepresentative": "Emma Rodriguez",
+      "client": "The Gourmet Hub",
+      "product": "Fine Dining Experience",
+      "unitsSold": 28,
+      "revenue": 16800,
+      "target": 18000
+    },
+    {
+      "id": 4,
+      "date": "2024-01-25",
+      "salesRepresentative": "David Park",
+      "client": "Bistro Central",
+      "product": "Quick Service Package",
+      "unitsSold": 65,
+      "revenue": 19500,
+      "target": 20000
+    },
+    {
+      "id": 5,
+      "date": "2024-01-28",
+      "salesRepresentative": "Lisa Thompson",
+      "client": "Coastal Cafe",
+      "product": "Brunch Special",
+      "unitsSold": 38,
+      "revenue": 11400,
+      "target": 12000
+    },
+    {
+      "id": 6,
+      "date": "2024-02-02",
+      "salesRepresentative": "James Wilson",
+      "client": "Metro Diner",
+      "product": "Family Dining Package",
+      "unitsSold": 52,
+      "revenue": 20800,
+      "target": 22000
+    },
+    {
+      "id": 7,
+      "date": "2024-02-05",
+      "salesRepresentative": "Sarah Johnson",
+      "client": "Rare Restaurants",
+      "product": "Premium Dining Experience",
+      "unitsSold": 48,
+      "revenue": 24000,
+      "target": 25000
+    },
+    {
+      "id": 8,
+      "date": "2024-02-08",
+      "salesRepresentative": "Michael Chen",
+      "client": "The Gourmet Hub",
+      "product": "Wine Pairing Experience",
+      "unitsSold": 25,
+      "revenue": 18750,
+      "target": 20000
+    },
+    {
+      "id": 9,
+      "date": "2024-02-12",
+      "salesRepresentative": "Emma Rodriguez",
+      "client": "Urban Kitchen",
+      "product": "Casual Dining Package",
+      "unitsSold": 42,
+      "revenue": 16800,
+      "target": 18000
+    },
+    {
+      "id": 10,
+      "date": "2024-02-15",
+      "salesRepresentative": "David Park",
+      "client": "Sunset Grill",
+      "product": "BBQ Experience",
+      "unitsSold": 35,
+      "revenue": 17500,
+      "target": 16000
+    },
+    {
+      "id": 11,
+      "date": "2024-02-18",
+      "salesRepresentative": "Lisa Thompson",
+      "client": "Coastal Cafe",
+      "product": "Seafood Special",
+      "unitsSold": 29,
+      "revenue": 14500,
+      "target": 15000
+    },
+    {
+      "id": 12,
+      "date": "2024-02-22",
+      "salesRepresentative": "James Wilson",
+      "client": "Metro Diner",
+      "product": "Family Dining Package",
+      "unitsSold": 58,
+      "revenue": 23200,
+      "target": 24000
+    },
+    {
+      "id": 13,
+      "date": "2024-02-25",
+      "salesRepresentative": "Sarah Johnson",
+      "client": "The Gourmet Hub",
+      "product": "Chef's Special",
+      "unitsSold": 22,
+      "revenue": 19800,
+      "target": 20000
+    },
+    {
+      "id": 14,
+      "date": "2024-02-28",
+      "salesRepresentative": "Michael Chen",
+      "client": "Bistro Central",
+      "product": "Quick Service Package",
+      "unitsSold": 71,
+      "revenue": 21300,
+      "target": 20000
+    },
+    {
+      "id": 15,
+      "date": "2024-03-03",
+      "salesRepresentative": "Emma Rodriguez",
+      "client": "Rare Restaurants",
+      "product": "Premium Dining Experience",
+      "unitsSold": 55,
+      "revenue": 27500,
+      "target": 26000
+    },
+    {
+      "id": 16,
+      "date": "2024-03-06",
+      "salesRepresentative": "David Park",
+      "client": "Urban Kitchen",
+      "product": "Brunch Special",
+      "unitsSold": 44,
+      "revenue": 13200,
+      "target": 14000
+    },
+    {
+      "id": 17,
+      "date": "2024-03-10",
+      "salesRepresentative": "Lisa Thompson",
+      "client": "Sunset Grill",
+      "product": "BBQ Experience",
+      "unitsSold": 39,
+      "revenue": 19500,
+      "target": 18000
+    },
+    {
+      "id": 18,
+      "date": "2024-03-13",
+      "salesRepresentative": "James Wilson",
+      "client": "The Gourmet Hub",
+      "product": "Wine Pairing Experience",
+      "unitsSold": 31,
+      "revenue": 23250,
+      "target": 22000
+    },
+    {
+      "id": 19,
+      "date": "2024-03-17",
+      "salesRepresentative": "Sarah Johnson",
+      "client": "Coastal Cafe",
+      "product": "Seafood Special",
+      "unitsSold": 33,
+      "revenue": 16500,
+      "target": 16000
+    },
+    {
+      "id": 20,
+      "date": "2024-03-20",
+      "salesRepresentative": "Michael Chen",
+      "client": "Metro Diner",
+      "product": "Family Dining Package",
+      "unitsSold": 61,
+      "revenue": 24400,
+      "target": 25000
+    }
+  ],
+  "monthlyTargets": {
+    "January": 150000,
+    "February": 160000,
+    "March": 170000,
+    "April": 175000,
+    "May": 180000,
+    "June": 185000
+  },
+  "products": [
+    {
+      "name": "Premium Dining Experience",
+      "category": "Fine Dining",
+      "price": 500,
+      "totalSales": 74500
+    },
+    {
+      "name": "Family Dining Package", 
+      "category": "Casual Dining",
+      "price": 400,
+      "totalSales": 68400
+    },
+    {
+      "name": "Quick Service Package",
+      "category": "Fast Casual",
+      "price": 300,
+      "totalSales": 40800
+    },
+    {
+      "name": "Wine Pairing Experience",
+      "category": "Fine Dining",
+      "price": 750,
+      "totalSales": 42000
+    },
+    {
+      "name": "BBQ Experience",
+      "category": "Specialty",
+      "price": 500,
+      "totalSales": 37000
+    },
+    {
+      "name": "Casual Dining Package",
+      "category": "Casual Dining",
+      "price": 400,
+      "totalSales": 29600
+    },
+    {
+      "name": "Seafood Special",
+      "category": "Specialty",
+      "price": 500,
+      "totalSales": 31000
+    },
+    {
+      "name": "Brunch Special",
+      "category": "Casual Dining",
+      "price": 300,
+      "totalSales": 24600
+    },
+    {
+      "name": "Chef's Special",
+      "category": "Fine Dining",
+      "price": 900,
+      "totalSales": 19800
+    }
+  ],
+  "customers": [
+    {
+      "name": "Rare Restaurants",
+      "industry": "Fine Dining",
+      "totalRevenue": 74000,
+      "totalOrders": 148
+    },
+    {
+      "name": "The Gourmet Hub",
+      "industry": "Fine Dining", 
+      "totalRevenue": 58850,
+      "totalOrders": 84
+    },
+    {
+      "name": "Metro Diner",
+      "industry": "Family Dining",
+      "totalRevenue": 68400,
+      "totalOrders": 171
+    },
+    {
+      "name": "Urban Kitchen",
+      "industry": "Casual Dining",
+      "totalRevenue": 42800,
+      "totalOrders": 118
+    },
+    {
+      "name": "Bistro Central",
+      "industry": "Fast Casual",
+      "totalRevenue": 40800,
+      "totalOrders": 136
+    },
+    {
+      "name": "Sunset Grill",
+      "industry": "BBQ & Grill",
+      "totalRevenue": 37000,
+      "totalOrders": 74
+    },
+    {
+      "name": "Coastal Cafe",
+      "industry": "Cafe & Bistro",
+      "totalRevenue": 42400,
+      "totalOrders": 100
+    }
+  ]
+}
