@@ -4,7 +4,7 @@ A comprehensive sales analytics dashboard built for Krowd's Software Engineer In
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://aryanjaiswal.github.io/sales-dashboard)
+**[View Live Dashboard](https://sales-dashboard-nu-henna.vercel.app/)**
 
 ## 📊 Project Overview
 
@@ -88,7 +88,7 @@ npm test
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aryanjaiswal/sales-dashboard.git
+   git clone https://github.com/Aryanjstar/Sales-Dashboard.git
    cd sales-dashboard
    ```
 
@@ -200,9 +200,8 @@ Potential improvements for production use:
 ## 📞 Contact
 
 **Aryan Jaiswal**  
-Email: [your.email@example.com]  
-LinkedIn: [linkedin.com/in/aryanjaiswal]  
-GitHub: [github.com/aryanjaiswal]
+Email: aryanjstar3@gmail.com  
+GitHub: [github.com/Aryanjstar](https://github.com/Aryanjstar)
 
 ---
 
